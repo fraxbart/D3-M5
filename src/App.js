@@ -7,7 +7,7 @@ import { Container } from "react-bootstrap";
 import { PacmanLoader } from "react-spinners";
 
 const authenticationBody = {
-  username:"francesco.bartt@gmail.com",
+  username:"francescoandpolito20@libero.it",
   password:"password"
 }
 
